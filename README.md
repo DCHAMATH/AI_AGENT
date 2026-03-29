@@ -36,16 +36,23 @@ GEMINI_API_KEY = "YOUR_GEMINI_API_KEY"
 1. python main.py
    
 ## Example result 
-- You: what is 12 * 8
-- Agent: 12 * 8 = 96
+You: what is 12 * 8
 
-- You: what is the weather in Riga, Latvia
-- Agent: Weather in Riga, Latvia: 7°C, Overcast
+Agent: 12 * 8 = 96
 
-- You: what time is it now
-- Agent: Current time: 14:35
 
-- You: read_file filename="tools/example.txt"
-- Agent: Hello! This is a test file.
-- It has multiple lines.
-- FileReaderTool should read all of this.
+You: what is the weather in Riga, Latvia
+
+Agent: Weather in Riga, Latvia: 7°C, Overcast
+
+
+You: what time is it now
+
+Agent: Current time: 14:35
+
+
+You: read_file filename="tools/example.txt"
+
+Agent: Hello! This is a test file.
+It has multiple lines.
+FileReaderTool should read all of this.
