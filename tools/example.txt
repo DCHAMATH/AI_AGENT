@@ -1,0 +1,3 @@
+Hello! This is a test file.
+It has multiple lines.
+FileReaderTool should read all of this.
