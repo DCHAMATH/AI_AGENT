@@ -34,7 +34,7 @@ GEMINI_API_KEY = "YOUR_GEMINI_API_KEY"
 
 ## Running the Agent
 1. python main.py
-Example:
+2. Example:
 You: what is 12 * 8
 Agent: 12 * 8 = 96
 
