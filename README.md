@@ -30,7 +30,8 @@ pip install google-genai requests
 
 1. **Add your Gemini API Key** in agent.py:
 GEMINI_API_KEY = "YOUR_GEMINI_API_KEY"
-2.Add your WeatherAPI API Key in weather_tool.py
+
+2. Add your WeatherAPI API Key in weather_tool.py
 
 ## Running the Agent
 1. python main.py
